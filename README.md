@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+reference repository:
+https://github.com/weincoder/arquitectura_referencia_flutter 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
